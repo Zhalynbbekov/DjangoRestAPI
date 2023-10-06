@@ -1,2 +1,2 @@
-# DRFProject
+
 # DjangoRestAPI
